@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1heng
 - 👀 I’m interested in aboselutely nothing
-- 🌱 I’m currently learning shit
-- 💞️ I’m looking to collaborate on destorying everthing 
+- 🌱 I’m currently learning BME
+- 💞️ I’m looking to ...
 - 📫 How to reach me ...
 
 <!---
